@@ -1,0 +1,20 @@
+[class$="big"] {
+    color: blue;
+ }
+
+ .container #b325, [class*="b326"] {
+    border-style: solid;
+    border-width: thin;
+    
+    border-color: green;
+    width: 200px;
+ } 
+
+ .container #b325, [class*="b32"] {
+    font-weight: bold;
+ }
+
+p {
+   background: yellow;
+   width: 200px;
+ }
